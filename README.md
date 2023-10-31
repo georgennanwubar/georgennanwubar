@@ -1,6 +1,6 @@
 - 👋 Hi, I’m George Nnanwubar
 - 👀 I’m interested in all things tech!
-- 🌱 I am a certified GCP Cloud Architect & Terraform Associate and currently learning (well..improving my knownledge in) Kubernetes, AWS, Azure, React, Vue, to name a few
+- 🌱 I am a certified GCP Cloud Architect, Kubernetes Administrator, Terraform Associate and currently learning (well..improving my knownledge in) , AWS, Azure, React, Vue, to name a few
 - 💞️ I’m looking to collaborate on any fun project(s)
 - 📫 How to reach me: george.ng has all my contact details :)
 
